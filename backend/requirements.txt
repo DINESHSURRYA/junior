@@ -1,0 +1,14 @@
+Django>=5
+djangorestframework
+channels
+channels-redis
+psycopg2-binary
+django-rest-framework
+django-cors-headers
+geojson
+django.contrib.gis
+gunicorn
+celery[redis]
+redis
+requests
+python-dotenv
